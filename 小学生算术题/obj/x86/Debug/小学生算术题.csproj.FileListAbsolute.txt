@@ -1,0 +1,7 @@
+C:\Users\傲娇小笼包\Desktop\小学算术题\小学生算术题\小学生算术题\bin\Debug\小学生算术题.exe
+C:\Users\傲娇小笼包\Desktop\小学算术题\小学生算术题\小学生算术题\bin\Debug\小学生算术题.pdb
+C:\Users\傲娇小笼包\Desktop\小学算术题\小学生算术题\小学生算术题\obj\x86\Debug\小学生算术题.Properties.Resources.resources
+C:\Users\傲娇小笼包\Desktop\小学算术题\小学生算术题\小学生算术题\obj\x86\Debug\小学生算术题.csproj.GenerateResource.Cache
+C:\Users\傲娇小笼包\Desktop\小学算术题\小学生算术题\小学生算术题\obj\x86\Debug\小学生算术题.exe
+C:\Users\傲娇小笼包\Desktop\小学算术题\小学生算术题\小学生算术题\obj\x86\Debug\小学生算术题.pdb
+C:\Users\傲娇小笼包\Desktop\小学算术题\小学生算术题\小学生算术题\obj\x86\Debug\小学生算术题.Form1.resources
